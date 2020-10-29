@@ -1,1 +1,1 @@
-Test site create with WordPress
+Test site created with WordPress
