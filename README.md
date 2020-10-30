@@ -1,1 +1,1 @@
-Test site created with WordPress
+Portfolio site for Teo Kac created with WordPress
